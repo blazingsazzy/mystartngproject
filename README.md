@@ -6,4 +6,4 @@ Check out my tweet here :
 https://twitter.com/CodeDrexel/status/1164647384829300737?s=19
 
 And a blog about my experience with HTML and tables. 
-Read the blog here. https://lucid.blog/blazingsazzy/post/1566517399
+Read the blog here. https://lucid.blog/blazingsazzy/post/1566565341
