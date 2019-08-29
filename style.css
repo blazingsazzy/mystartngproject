@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    padding: 10px;
+    width: 950px;
+    background-color: azure;
+    display: block;
+
+}
+h1,h2,h3,h4,h5,h6{
+    font-size: 20px;
+    color: tomato;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+}
+
+.main-header{
+    background: gray;
+    padding: 20px;
+    margin: 20px;
+    height: 380px;
+    /* display: inline-block; */
+    width: 100%;
+    /* color: whitesmoke; */
+}
+a{
+    color: black;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.myname{
+    font-size: 35px;
+    color: whitesmoke;
+}
+#divide{
+    transform: rotate(90deg);
+    width: 50px;
+    background: red;
+}
+
+hr{
+    width: 50%;
+    height: 5px;
+    background-color: black;
+}
+.my-picture{
+    width: 320px;
+    height: 350px;
+    border-radius: 100%;
+    float: left;
+    /* display: block; */
+  
+
+}
+address{
+margin: 20px;
+    
+}
+
+
+.basic-info{
+    margin: 5px;
+    padding: 1px;
+    position: absolute;
+    bottom: -10px;
+    left: 100px;
+position: relative;
+font-size: 2.1rem;
+
+}
+
+.clear{
+    clear: both;
+}
+
+
+#personal-data{
+    /* position: relative; */
+    width: 100%;
+    padding: 5px;
+    bottom: 520px;
+    margin: 10px;
+    /* float: right; */
+    /* background: blueviolet; */
+
+}
+
+
+
+table, td{
+    padding: 4px;
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: 20px;
+    background-color: aqua;
+    top: 60%;
+    right: 50%;
+
+}
+
+li{
+    padding: 10px;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
